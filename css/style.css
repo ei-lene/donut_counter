@@ -1,0 +1,48 @@
+body {
+	margin:0;
+	padding:2%;
+	font-family: 'Book Antiqua',Helvetica, Arial, Verdana;
+  color: #333;
+
+}
+
+#wrapper {
+	background-color: #fff;
+  opacity: 0.9;
+	margin:auto;
+	padding:1%;
+}
+
+/* js styles */
+.green {
+  color:green;
+  background:lime;
+  padding:5px;
+  border:1px solid green;
+}
+
+.amber {
+  color:green;
+  background:orange;
+  padding:5px;
+  border:1px solid red;
+}
+
+.red {
+  color:red;
+  background:pink;
+  padding:5px;
+  border:1px solid red;
+}
+
+.green p {
+  color:green;
+}
+
+.amber p {
+  color:green;
+}
+
+.red p {
+  color:red;
+}
